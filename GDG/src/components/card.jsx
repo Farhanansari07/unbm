@@ -17,3 +17,4 @@ const Card = ({ head, text }) => {
 };
 
 export default Card;
+//fr  
